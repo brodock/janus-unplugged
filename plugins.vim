@@ -38,6 +38,7 @@ endif
 
 " Themes
 Plug 'morhetz/gruvbox'
+Plug 'arcticicestudio/nord-vim'
 Plug 'vim-airline/vim-airline-themes'
 
 " Dev Icons (must be the last one)
